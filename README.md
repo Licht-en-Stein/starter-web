@@ -9,3 +9,6 @@ SHould be deployed on a nodejs server
 
 ## Bugs
 tile.png is missing, would leave to errors
+
+## Contact
+email: email@worldwideweb.com
